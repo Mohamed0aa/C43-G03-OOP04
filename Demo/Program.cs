@@ -35,6 +35,16 @@
             //fly.backward();
             #endregion
 
+            #region vedio 4 sallow copy &deep copy
+            //int[] num = { 1, 2, 3 };
+            //int [] arr = { 1, 2,3,4,5,6,7 };
+
+            //num = arr;//shallo copy ({ 1, 2,3,4,5,6,7 } become unreachable object)
+
+
+            //num= (int[])arr.Clone(); //deep copy which is create new object 
+            #endregion
+
         }
     }
 }
