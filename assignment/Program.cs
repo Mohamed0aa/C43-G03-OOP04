@@ -56,6 +56,17 @@ namespace assignment
             //rectangle.height= 5;
             //rectangle.DisplayShapeInfo();
             #endregion
+
+            #region q2
+            //IAuthenticationService authenticationService = new BasicAuthenticationService();
+            //bool ch = authenticationService.Authenticate("Mohamed", "##########");
+            //bool ch2 = authenticationService.AuthorizeUser("Admin");
+            //Console.WriteLine($"authentication_state is {ch} ");//true
+            //Console.WriteLine($"Authorization_state is {ch2}");//true
+            #endregion
+
+
+            #endregion
             #endregion
         }
     }
