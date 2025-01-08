@@ -22,8 +22,17 @@
             #endregion
 
             #region vedio 2 interface ex2
-            Series seriesby2 =new Series();
-            print(seriesby2);
+            //Series seriesby2 =new Series();
+            //print(seriesby2);
+            #endregion
+
+            #region  vedio 3 ex 3
+            //Imovable move=new airplane();
+
+            //Iflayable fly=new airplane();
+
+            //move.backward();
+            //fly.backward();
             #endregion
 
         }
