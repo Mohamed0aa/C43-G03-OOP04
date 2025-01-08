@@ -39,10 +39,18 @@
             //int[] num = { 1, 2, 3 };
             //int [] arr = { 1, 2,3,4,5,6,7 };
 
-            //num = arr;//shallo copy ({ 1, 2,3,4,5,6,7 } become unreachable object)
+            //num =arr;//shallo copy ({ 1, 2,3,4,5,6,7 } become unreachable object)
 
 
             //num= (int[])arr.Clone(); //deep copy which is create new object 
+
+            //clone it make a shallow copy  of array 
+            //string[] name1 = { "mo", "ahmed" };
+            //string[] name2 = { "smi", "gogo" };
+            //name2 = (string[]) name1.Clone();
+
+            //name2[0] = "amr";
+            //Console.WriteLine(name1[0]);
             #endregion
 
         }
