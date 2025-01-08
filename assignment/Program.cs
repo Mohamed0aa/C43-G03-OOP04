@@ -39,7 +39,23 @@ namespace assignment
             #endregion
             #region q10 :How can a C# class implement multiple interfaces?
             // c) By separating interface names with commas
-            #endregion 
+            #endregion
+            #endregion
+
+
+
+            #region part2
+            #region  q1
+            // Circle circle = new Circle();
+            //circle.Radius = 14.4;
+            //Console.WriteLine("Circle");
+            //circle.DisplayShapeInfo();
+            //Rectangle rectangle = new Rectangle();
+            //Console.WriteLine("Rectangle");
+            //rectangle.width= 10;
+            //rectangle.height= 5;
+            //rectangle.DisplayShapeInfo();
+            #endregion
             #endregion
         }
     }
