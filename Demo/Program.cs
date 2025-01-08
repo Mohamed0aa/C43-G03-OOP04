@@ -53,6 +53,32 @@
             //Console.WriteLine(name1[0]);
             #endregion
 
+
+            #region built in interface
+            Employee EM1= new Employee()
+            {
+                Id = 1,
+                Name = "Test",
+                Salary = 1000
+            };
+
+            Employee EM2 = new Employee()
+            {
+                Id = 2,
+                Name = "Test2",
+                Salary = 2000
+            };
+            EM2 = EM1;
+            EM2.Name= "Test3";
+            Console.WriteLine(EM1);
+
+
+            ///////////////////////////////////////
+            ///comparable
+            Employee[] employees = { EM1, EM2 };
+            Array.Sort(employees, new EmployeeComparer());
+            #endregion
+
         }
     }
 }
