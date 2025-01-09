@@ -65,6 +65,14 @@ namespace assignment
             //Console.WriteLine($"Authorization_state is {ch2}");//true
             #endregion
 
+            #region q3
+            //INotificationService pushNotificationService = new PushNotificationService();
+            //INotificationService email = new EmailNotificationService();
+            //INotificationService sms = new SmsNotificationService();
+            //pushNotificationService.SendNotification("moahmed", " dont bs]e lazy ");
+            //sms.SendNotification("123445544454", " dont bs]e foolish ");
+            //pushNotificationService.SendNotification("moahmed@gmail.com ","work harder ");
+
 
             #endregion
             #endregion
