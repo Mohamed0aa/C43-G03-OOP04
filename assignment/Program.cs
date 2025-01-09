@@ -7,7 +7,7 @@ namespace assignment
         static void Main(string[] args)
         {
             #region part1
-            
+
             #region q1 :What is the primary purpose of an interface in C#?
             //b) To define a blueprint for a class
             #endregion
@@ -42,7 +42,7 @@ namespace assignment
             // c) By separating interface names with commas
             #endregion
             #endregion
-            
+
             #region part2
             #region  q1
             // Circle circle = new Circle();
@@ -59,7 +59,8 @@ namespace assignment
 
             //mohamed
             //ali
-
+            //mohamed
+            //ali
 
 
             #region q2
@@ -77,7 +78,7 @@ namespace assignment
             //pushNotificationService.SendNotification("moahmed", " dont bs]e lazy ");
             //sms.SendNotification("123445544454", " dont bs]e foolish ");
             //pushNotificationService.SendNotification("moahmed@gmail.com ","work harder ");
-            
+
 
             #endregion
             #endregion
