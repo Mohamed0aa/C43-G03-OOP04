@@ -42,8 +42,6 @@ namespace assignment
             #endregion
             #endregion
 
-
-
             #region part2
             #region  q1
             // Circle circle = new Circle();
