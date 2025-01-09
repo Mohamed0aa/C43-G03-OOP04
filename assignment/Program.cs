@@ -7,6 +7,7 @@ namespace assignment
         static void Main(string[] args)
         {
             #region part1
+            
             #region q1 :What is the primary purpose of an interface in C#?
             //b) To define a blueprint for a class
             #endregion
