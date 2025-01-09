@@ -41,7 +41,7 @@ namespace assignment
             // c) By separating interface names with commas
             #endregion
             #endregion
-
+            
             #region part2
             #region  q1
             // Circle circle = new Circle();
